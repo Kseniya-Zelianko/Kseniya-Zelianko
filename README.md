@@ -19,5 +19,9 @@
 </h1>
 </div>
 
+---
+
+### :woman_technologist: Обо мне :
+
 
 
