@@ -16,9 +16,11 @@
   <a href="https://www.linkedin.com/in/kseniya-zelianko-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=Kseniya-Zelianko&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div id="badges" align="center">
+   <img src="https://komarev.com/ghpvc/?username=Kseniya-Zelianko&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
