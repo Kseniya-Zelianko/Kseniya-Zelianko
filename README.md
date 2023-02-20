@@ -8,3 +8,6 @@
 Умею работать с основными продуктовыми метриками: LTV, DAU, MAU, ARPU, ARPPU, CTR, Churn, Retention, Unit-экономика.
 Опыт использования GIT (Gitlab).
 Базовые знания автоматизирования работы в Airflow.
+
+
+https://img.shields.io/badge/LinkedIn-blue
