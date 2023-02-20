@@ -23,8 +23,8 @@
   <a href="https://t.me/zel_kseniya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://public.tableau.com/app/profile/kseniya7450">
+    <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
 </div>
 
