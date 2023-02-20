@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://public.tableau.com/app/profile/kseniya7450">
-    <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=orange" alt="Tableau Badge"/>
   </a>
 </div>
 
