@@ -22,8 +22,7 @@
 5. GIT 
 6. Airflow
 7. Excel: сводные таблицы, формулы, фильтры, подготовка отчетов
-8. Визуализация данных с помощью Tableau и Redash 
-<div id="badges">
+8. Визуализация данных с помощью Tableau и Redash <div id="badges">
   <a href="https://public.tableau.com/app/profile/kseniya7450">
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue" alt="Tableau Badge"/>
   </a>
