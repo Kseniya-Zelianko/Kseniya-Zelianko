@@ -14,11 +14,11 @@
 
 ---
 
-### :woman_technologist: Навыки:
-1. Python (Jupyter Notebook) для анализа баз данных: pandas, numpy, scipy, statsmodels, seaborn, matplotlib, plotly
+### :woman_technologist: Мои навыки:
+1. Python (Jupyter Notebook): pandas, numpy, scipy, statsmodels, seaborn, matplotlib, plotly
 2. SQL (ClickHouse, Redash): агрегация, подзапросы, join, оконные функции
 3. Статистика: анализ результатов А/А и А/В-тестов 
-4. Визуализации данных с помощью Tableau и Redash
+4. Визуализация данных с помощью Tableau и Redash
 5. Продуктовая аналитика: LTV, DAU, MAU, ARPU, ARPPU, CTR, Churn, Retention, Unit-экономика
 6. GIT 
 7. Airflow
