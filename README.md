@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/kseniya-zelianko-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/zel_kseniya](https://public.tableau.com/app/profile/kseniya7450">
+  <a href="https://public.tableau.com/app/profile/kseniya7450">
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue" alt="Tableau Badge"/>
   </a>
 </div>
@@ -21,7 +21,12 @@
 1. Python (Jupyter Notebook): pandas, numpy, scipy, statsmodels, seaborn, matplotlib, plotly
 2. SQL (ClickHouse, Redash): агрегация, подзапросы, join, оконные функции
 3. Статистика: анализ результатов А/А и А/В-тестов 
-4. Визуализация данных с помощью Tableau и Redash
+4. Визуализация данных с помощью Tableau и Redash 
+<div id="badges">
+  <a href="https://public.tableau.com/app/profile/kseniya7450">
+    <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue" alt="Tableau Badge"/>
+  </a>
+</div>
 5. Продуктовая аналитика: LTV, DAU, MAU, ARPU, ARPPU, CTR, Churn, Retention, Unit-экономика
 6. GIT 
 7. Airflow
