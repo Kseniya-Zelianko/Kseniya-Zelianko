@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=orange" alt="Tableau Badge"/>
   </a>
   <a href="https://lab.karpov.courses/live_certificate/c4a89c08-567d-4811-9de7-71fcf69b1cbc/">
-    <img src="https://img.shields.io/badge/Karpov.courses-black?style=for-the-badge&logo=Karpov.courses&logoColor=red" alt="Karpov.courses Badge"/>
+    <img src="https://img.shields.io/badge/Karpov.courses-orange?style=for-the-badge&logo=Karpov.courses&logoColor=red" alt="Karpov.courses Badge"/>
   </a>
 </div>
 
