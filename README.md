@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://public.tableau.com/app/profile/kseniya7450">
-    <img src="https://img.shields.io/badge/Tableau-light blue?style=for-the-badge&logo=tableau&logoColor=orange" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/Tableau-light_blue?style=for-the-badge&logo=tableau&logoColor=orange" alt="Tableau Badge"/>
   </a>
 </div>
 
