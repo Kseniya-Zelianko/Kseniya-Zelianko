@@ -29,7 +29,7 @@
 
 ---
 
-### :technologist: Сертификаты:
+### 📚: Сертификаты:
 <div id="badges">
   <a href="https://lab.karpov.courses/certificate/5600bf81-8894-4ac0-a3a7-65eb355dcda4/">
     <img src="https://img.shields.io/badge/Karpov.courses-black?style=for-the-badge&logo=Karpov.courses&logoColor=red" alt="Karpov.courses Badge"/>
